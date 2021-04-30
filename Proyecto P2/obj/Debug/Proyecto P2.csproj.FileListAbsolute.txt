@@ -1,0 +1,82 @@
+C:\Users\Administrador\Desktop\Proyecto P2\Proyecto P2\bin\Debug\Proyecto P2.exe.config
+C:\Users\Administrador\Desktop\Proyecto P2\Proyecto P2\bin\Debug\Proyecto P2.exe
+C:\Users\Administrador\Desktop\Proyecto P2\Proyecto P2\bin\Debug\Proyecto P2.pdb
+C:\Users\Administrador\Desktop\Proyecto P2\Proyecto P2\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Administrador\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Form2.resources
+C:\Users\Administrador\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.exe
+C:\Users\Administrador\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.pdb
+C:\Users\Administrador\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Form1.resources
+C:\Users\Administrador\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Producto.resources
+C:\Users\User\Desktop\Proyecto P2\Proyecto P2\bin\Debug\Proyecto P2.exe.config
+C:\Users\User\Desktop\Proyecto P2\Proyecto P2\bin\Debug\Proyecto P2.exe
+C:\Users\User\Desktop\Proyecto P2\Proyecto P2\bin\Debug\Proyecto P2.pdb
+C:\Users\User\Desktop\Proyecto P2\Proyecto P2\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\User\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Form1.resources
+C:\Users\User\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Form2.resources
+C:\Users\User\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Producto.resources
+C:\Users\User\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Properties.Resources.resources
+C:\Users\User\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.csproj.CopyComplete
+C:\Users\User\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.exe
+C:\Users\User\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.pdb
+C:\Users\User\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Reconocimiento_Facial.resources
+C:\Users\User\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Registros.resources
+C:\Users\User\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Informacion_Personal.resources
+C:\Users\Kelvin\Desktop\Retry\Proyecto P2\Proyecto P2\bin\Debug\Proyecto P2.exe.config
+C:\Users\Kelvin\Desktop\Retry\Proyecto P2\Proyecto P2\bin\Debug\Proyecto P2.exe
+C:\Users\Kelvin\Desktop\Retry\Proyecto P2\Proyecto P2\bin\Debug\Proyecto P2.pdb
+C:\Users\Kelvin\Desktop\Retry\Proyecto P2\Proyecto P2\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Kelvin\Desktop\Retry\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.csprojAssemblyReference.cache
+C:\Users\Kelvin\Desktop\Retry\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Form1.resources
+C:\Users\Kelvin\Desktop\Retry\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Form2.resources
+C:\Users\Kelvin\Desktop\Retry\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Informacion_Personal.resources
+C:\Users\Kelvin\Desktop\Retry\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Registros.resources
+C:\Users\Kelvin\Desktop\Retry\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Producto.resources
+C:\Users\Kelvin\Desktop\Retry\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Properties.Resources.resources
+C:\Users\Kelvin\Desktop\Retry\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Reconocimiento_Facial.resources
+C:\Users\Kelvin\Desktop\Retry\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.csproj.GenerateResource.cache
+C:\Users\Kelvin\Desktop\Retry\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Desktop\Retry\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.csproj.CopyComplete
+C:\Users\Kelvin\Desktop\Retry\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.exe
+C:\Users\Kelvin\Desktop\Retry\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.pdb
+C:\Users\User\Desktop\Nueva carpeta\Proyecto P2\Proyecto P2\bin\Debug\Proyecto P2.exe.config
+C:\Users\User\Desktop\Nueva carpeta\Proyecto P2\Proyecto P2\bin\Debug\Proyecto P2.exe
+C:\Users\User\Desktop\Nueva carpeta\Proyecto P2\Proyecto P2\bin\Debug\Proyecto P2.pdb
+C:\Users\User\Desktop\Nueva carpeta\Proyecto P2\Proyecto P2\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\User\Desktop\Nueva carpeta\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Nueva carpeta\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Form1.resources
+C:\Users\User\Desktop\Nueva carpeta\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Form2.resources
+C:\Users\User\Desktop\Nueva carpeta\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Informacion_Personal.resources
+C:\Users\User\Desktop\Nueva carpeta\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Registros.resources
+C:\Users\User\Desktop\Nueva carpeta\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Producto.resources
+C:\Users\User\Desktop\Nueva carpeta\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Properties.Resources.resources
+C:\Users\User\Desktop\Nueva carpeta\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Reconocimiento_Facial.resources
+C:\Users\User\Desktop\Nueva carpeta\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Nueva carpeta\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nueva carpeta\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.csproj.CopyComplete
+C:\Users\User\Desktop\Nueva carpeta\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.exe
+C:\Users\User\Desktop\Nueva carpeta\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.pdb
+C:\Users\Kelvin\Desktop\Proyecto P2\Proyecto P2\bin\Debug\Proyecto P2.exe.config
+C:\Users\Kelvin\Desktop\Proyecto P2\Proyecto P2\bin\Debug\Proyecto P2.exe
+C:\Users\Kelvin\Desktop\Proyecto P2\Proyecto P2\bin\Debug\Proyecto P2.pdb
+C:\Users\Kelvin\Desktop\Proyecto P2\Proyecto P2\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Kelvin\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.csprojAssemblyReference.cache
+C:\Users\Kelvin\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Form1.resources
+C:\Users\Kelvin\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Form2.resources
+C:\Users\Kelvin\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Informacion_Personal.resources
+C:\Users\Kelvin\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Registros.resources
+C:\Users\Kelvin\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Producto.resources
+C:\Users\Kelvin\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Properties.Resources.resources
+C:\Users\Kelvin\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto_P2.Reconocimiento_Facial.resources
+C:\Users\Kelvin\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.csproj.GenerateResource.cache
+C:\Users\Kelvin\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.csproj.CopyComplete
+C:\Users\Kelvin\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.exe
+C:\Users\Kelvin\Desktop\Proyecto P2\Proyecto P2\obj\Debug\Proyecto P2.pdb
